@@ -1,7 +1,7 @@
 # Hi there, I'm Nikhil Kumar!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=0nikhilkumar&show_icons=true&theme=midnight-purple" />
-<img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nikhilkumar&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nikhilkumar&layout=compact" />
 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
