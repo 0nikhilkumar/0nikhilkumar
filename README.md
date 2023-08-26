@@ -3,7 +3,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=0nikhilkumar&show_icons=true&theme=midnight-purple" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nikhilkumar&layout=compact" /> </br> 
 
-$-------------------------------------------------------------$
+$--------------------------------$
 
 
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
