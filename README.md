@@ -9,6 +9,7 @@
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0nikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="0nikhilkumar" /> </p>
 <p align="left"> <a href="https://twitter.com/0nikhilkumar_" target="blank"><img src="https://img.shields.io/twitter/follow/0nikhilkumar_?logo=twitter&style=for-the-badge" alt="0nikhilkumar_" /></a> </p> 
 
 <h3>💬 About Me </h3> <b>I am Nikhil Kumar, I am Final Year Student at CSJM, UIET KANPUR and I have 1.5+ years experience in Software Development, I have Completed 20+ Projects. I have Completed Google Cloud Facilitator Program | April-July(2022)</b>
@@ -51,6 +52,6 @@ $--------------------------------$
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0nikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="0nikhilkumar" /> </p>
+
 
 
