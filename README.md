@@ -3,10 +3,15 @@
 </div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&weight=100&duration=4000&pause=500&color=02F708FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;Google+Cloud+Ready+Facilitator;DSA+%7C+Blogging+Enthusiast"/>
+</div>
+
+<hr>
 
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0nikhilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="0nikhilkumar" /> </p>
@@ -23,19 +28,20 @@
 
 - 📫 How to reach me **mail.nikhil0008@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0nikhilkumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0nikhilkumar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/0nikhilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/0nikhilkumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18068030/nikhil-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18068030/nikhil-kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/soulpredator.ig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/soulpredator.ig/" height="30" width="40" /></a>
-<a href="https://medium.com/@nikhilkumar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhilkumar0" height="30" width="40" /></a>
-</p>
+
 
 
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=0nikhilkumar&show_icons=true&theme=midnight-purple" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0nikhilkumar&layout=compact&theme=discord_old_burple" /> </br> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0nikhilkumar&" alt="0nikhilkumar" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=0nikhilkumar&&show_icons=true"/>
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 $--------------------------------$
 
@@ -49,9 +55,15 @@ $--------------------------------$
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 
-
-
-
+<br>
+<img src<h2 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/0nikhilkumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0nikhilkumar_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/0nikhilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/0nikhilkumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18068030/nikhil-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18068030/nikhil-kumar" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/soulpredator.ig/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/soulpredator.ig/" height="30" width="40" /></a>
+<a href="https://medium.com/@nikhilkumar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhilkumar0" height="30" width="40" /></a>
+</p>
 
 
 
