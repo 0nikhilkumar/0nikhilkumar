@@ -23,11 +23,11 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-xi-wheat-54.vercel.app/](https://my-portfolio-xi-wheat-54.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@nikhilkumar0](https://medium.com/@nikhilkumar0)
+- 📝 I regularly write articles on - [https://medium.com/@nikhilkumar0](https://medium.com/@nikhilkumar0)
 
 
 
-- 📫 How to reach me **mail.nikhil0008@gmail.com**
+- 📫 How to reach me - **mail.nikhil0008@gmail.com**
 
 <br>
 <br>
