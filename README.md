@@ -39,15 +39,14 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0nikhilkumar&theme=midnight-purple&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
-<br>
-<h3 align="left">🔥 Contribution Graph</h3>
-<br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0nikhilkumar&theme=github-compact" />
-<br>
-<h3>🔥 Streak Stats</h3>
+<h2>🔥 Streak Stats</h2>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0nikhilkumar&theme=dracula" alt="0nikhilkumar" />
 </div>
+<br>
+<h2 align="left">🔥 Contribution Graph</h2>
+<br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0nikhilkumar&theme=github-compact" />
 <hr>
 
 <h3>👨‍💻 Programming Languages</h3>
