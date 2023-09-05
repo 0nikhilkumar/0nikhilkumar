@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta name="google-site-verification" content="nWHqzys1m7JyervejpeG0n5JQdmWCV0RVi5jZ8W5dbY" />
@@ -110,7 +109,7 @@
 
 <br>
 <details>
-<summary align="left"><h3>👨‍💻 Coding Platform</h3></summary>
+<summary align="left">👨‍💻 Coding Platform</summary>
 <br>
 <a href="https://www.codechef.com/users/nikhil_knox1" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/0nikhilkumar" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
@@ -119,7 +118,7 @@
 </details>
 
 
-<h2 align="left">🔗Connect with me -</h3>
+<h2 align="left">🔗Connect with me -</h2>
 <p align="center">
 <a href="https://twitter.com/0nikhilkumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0nikhilkumar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/0nikhilkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/0nikhilkumar" height="30" width="40" /></a>
@@ -132,10 +131,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thanks+For+Visiting!" />
 </div>
-
-
-
-
-    
+ 
 </body>
 </html>
