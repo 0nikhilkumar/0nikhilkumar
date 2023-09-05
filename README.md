@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="google-site-verification" content="nWHqzys1m7JyervejpeG0n5JQdmWCV0RVi5jZ8W5dbY" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 👋 Nikhil Kumar </title>
+</head>
+<body>
+
+
+
+
+
 <hr>
 <div align="center">
   <img src="Main Banner.png"/>
@@ -120,3 +134,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thanks+For+Visiting!" />
 </div>
 
+
+
+
+    
+</body>
+</html>
