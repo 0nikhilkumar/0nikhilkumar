@@ -40,14 +40,11 @@
 </a>
 </div>
 <br>
-<details>
-<summary align="left"><h3>🔥 Contribution Graph</h3></summary>
+<h3 align="left">🔥 Contribution Graph</h3>
 <br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0nikhilkumar&theme=github-compact" />
-</details>
-<hr>
 <br>
-<h2>🔥 Streak Stats</h3>
+<h3>🔥 Streak Stats</h3>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0nikhilkumar&theme=dracula" alt="0nikhilkumar" />
 </div>
