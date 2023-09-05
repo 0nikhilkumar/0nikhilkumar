@@ -115,5 +115,8 @@
 <a href="https://medium.com/@nikhilkumar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhilkumar0" height="30" width="40" /></a>
 </p>
 <hr>
-
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thanks+For+Visiting!" />
+</div>
 
