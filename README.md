@@ -4,7 +4,6 @@
     <meta name="google-site-verification" content="nWHqzys1m7JyervejpeG0n5JQdmWCV0RVi5jZ8W5dbY" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> 👋 Nikhil Kumar </title>
 </head>
 <body>
 
