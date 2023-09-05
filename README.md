@@ -1,6 +1,6 @@
 <hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="Untitled (1280 x 480 px).jpg" width="500" height="300"/>
 </div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Nikhil Kumar</h1>
